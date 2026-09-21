@@ -161,3 +161,10 @@ system. By design, to keep it fast and simple:
 ## License
 
 MIT (or your organization's preferred license) -- edit as needed.
+
+- **AI Usage**
+- Claude Ai tool is used.
+- It is used to enhance the code.
+- AI-generated code or architectural recommendation i adopted-
+   - Adaptive key-frame selection.
+   - Sliding window pose-only refinement.
